@@ -1,5 +1,6 @@
 # Exercise: Navigation
-The app uses React Navigation to navigate between screens. Simple pressable text & button that navigates to a second screen when clicked and vice versa.
+The app uses React Navigation to navigate between screens. Simple pressable text & button that navigates to a second screen when clicked and vice versa. The app also supports light and dark themes based on the device's color scheme.
+
 ## How to Run
 
 1. Clone the repository:
